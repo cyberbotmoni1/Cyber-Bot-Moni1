@@ -30,7 +30,7 @@ module.exports.run = async function({ api, event }) {
 ┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : Not interested
 ┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Joypurhat, Rajshahi
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🎭 Adda Box : https://m.me/j/AbbeLuZmWzjy-v3U/
+┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : @lover_of_m_33
 ┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : https://t.me/lover_of_m_45
 ┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/ITS.MAFIYA.KING.I.AM.YOUR.REAL.PAPPA.ITS.Z1S4N
 ┣━━━━━━━━━━━━━━━━━━━━━┫
@@ -40,7 +40,7 @@ module.exports.run = async function({ api, event }) {
         attachment: fs.createReadStream(__dirname + "/cache/1.png")
     }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/1.png"));
   
-    return request(encodeURI(`https://graph.facebook.com/122244213182221149/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`))
+    return request(encodeURI(`https://graph.facebook.com/122136881744833650/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`))
         .pipe(fs.createWriteStream(__dirname + '/cache/1.png'))
         .on('close', () => callback());
 };
