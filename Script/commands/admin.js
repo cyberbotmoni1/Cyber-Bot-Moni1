@@ -30,9 +30,7 @@ module.exports.run = async function({ api, event }) {
 ┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : Not interested
 ┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Joypurhat, Rajshahi
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ ♻️»⑅⃝🧚‍♀❥জি্সা্ন্ এর্ ফে্মা্স্ আ্ড্ডা্ নগর্🧚‍♀✨ 🪽
-| ♻️join :https://m.me/j/AbbeLuZmWzjy-v3U/
-| 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : @lover_of_m_33
+┃ 🎭 Adda Box : https://m.me/j/AbbeLuZmWzjy-v3U/
 ┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : https://t.me/lover_of_m_45
 ┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/ITS.MAFIYA.KING.I.AM.YOUR.REAL.PAPPA.ITS.Z1S4N
 ┣━━━━━━━━━━━━━━━━━━━━━┫
