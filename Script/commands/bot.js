@@ -56,8 +56,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "zisan") || (event.body.toLowerCase() == "Zisan bhai") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛 ")) {
-     return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
+  if ((event.body.toLowerCase() == "Zisan") || (event.body.toLowerCase() == "জিসান") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛 ") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛 ")) {
+     return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘 উনার ফেমাস সিটি *»⑅⃝🧚‍♀❥জি্সা্ন্ এর্ ফে্মা্স্ আ্ড্ডা্ নগর্🧚‍♀✨ 🪽* : https://m.me/j/AbbeLuZmWzjy-v3U/ 🥵",threadID);
 
        
    };
