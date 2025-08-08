@@ -24,7 +24,8 @@ module.exports.run = async function ({ api, event }) {
     "💳 Stealing credit card info... (wow, broke)",
     "📤 Uploading data to dark web...",
     "✅ Hack complete! You now own their account 😈",
-    "🧠 SIR/MAM ${name}... APNAR ACCOUNT BOSS 𝐙𝐈𝐒𝐀𝐍 ER KACHE DEWA HOYECHE☣️"
+    "🧠 SIR/MAM APNAR ACCOUNT BOSS 𝐙𝐈𝐒𝐀𝐍 ER KACHE DEWA HOYECHE ☣️",
+    `👿  ${name}... JODI APNI APNAR ACCOUNT BACK CHAN TAHOLE AMAR BOSS 𝐙𝐈𝐒𝐀𝐍 ER SATHE JOGAJOG KORUN👿`,
   ];
 
   for (let i = 0; i < steps.length; i++) {
