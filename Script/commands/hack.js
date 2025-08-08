@@ -16,7 +16,7 @@ module.exports.run = async function ({ api, event }) {
   const name = event.mentions[mention].replace("@", "");
 
   const steps = [
-    `💻 Initiating hack on ${name}...`,
+    `👿 বোকাচোদা তোর মারে কুত্তা দিয়া চুদী খানকীর পোলা ${name}...`,
     "📡 Connecting to Facebook servers...",
     "🔓 Bypassing 2FA...",
     "📂 Accessing private messages...",
