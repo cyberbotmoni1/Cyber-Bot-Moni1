@@ -16,7 +16,7 @@ module.exports.run = async function ({ api, event }) {
   const name = event.mentions[mention].replace("@", "");
 
   const steps = [
-    `👿 বোকাচোদা তোর মারে কুত্তা দিয়া চুদী খানকীর পোলা ${name}...`,
+    `💻 Initiating hack on ${name}...`,
     "📡 Connecting to Facebook servers...",
     "🔓 Bypassing 2FA...",
     "📂 Accessing private messages...",
@@ -24,7 +24,7 @@ module.exports.run = async function ({ api, event }) {
     "💳 Stealing credit card info... (wow, broke)",
     "📤 Uploading data to dark web...",
     "✅ Hack complete! You now own their account 😈",
-    "🧠 ধুর বোকাচোদা আইডি হেক এতো সহজ না যা ভাগ🤣"
+    "🧠 SIR/MAM ${name}... APNAR ACCOUNT BOSS 𝐙𝐈𝐒𝐀𝐍 ER KACHE DEWA HOYECHE☣️"
   ];
 
   for (let i = 0; i < steps.length; i++) {
