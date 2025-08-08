@@ -1,7 +1,7 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "TEAM SARPX BOT",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by SARPX TEAM 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️☢️",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
@@ -25,9 +25,9 @@
       "ullash",
       "cyberullash",
       "cyberRajib ",
-      "islamick chat bot"
+      "team sarpx chat bot"
   ],
-  "author": "Ullash ッ",
+  "author": "Zisan ッ",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
