@@ -5,8 +5,8 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ ZISAN_ ☢️",
   description: "goibot",
-  commandCategory: "/",
-  usages: "/",
+  commandCategory: "×",
+  usages: "×",
   cooldowns: 5,
 };
 module.exports.handleEvent = async function({ api, event, args, Threads, Users }) {
@@ -56,8 +56,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "zisan") || (event.body.toLowerCase() == "জিসান") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛 ") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛 ")) {
-     return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘»⑅⃝🧚‍♀❥জি্সা্ন্ এর্ ফে্মা্স্ আ্ড্ডা্ নগর্🧚‍♀✨*:https://m.me/j/AbbeLuZmWzjy-v3U/",threadID);
+  if ((event.body.toLowerCase() == "zisan") || (event.body.toLowerCase() == "Zisan bhai") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛") || (event.body.toLowerCase() == "@Zisan ːꜛᏯ乛 ")) {
+     return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
    };
@@ -74,8 +74,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("He is Zisan ːꜛᏯ乛  ッ❤️ তাকে সবাই জিসান নামে  চিনে🤙", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Xud @mention") || (event.body.toLowerCase() == "xud @mention")) {
-     return api.sendMessage("কে তুই তোরে তো চিনলাম না ওহ দারা তুই সেই পোলা ডা না জিসান বস একটা মাইয়ারে কনডম ছাড়া চুদছিল সেই জারজ পোলা নাকি", threadID);
+   if ((event.body.toLowerCase() == "murgiz") || (event.body.toLowerCase() == "Murgiz")) {
+     return api.sendMessage("কে তুই তোরে তো চিনলাম না ওহ দারা তুই সেই পোলা ডা না জিসান বস একটা মাইয়ারে কনডম ছাড়া চুদছিল সেই জারজ পোলা নাকি এখনই বস এর থেকে মাফ চাইয়া লিভ নে নইলে তোরে ভার্চুয়াল থেকে বের কইরা ", threadID);
    };
 
   
@@ -208,3 +208,5 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   };
 
 }
+
+module.exports.run = function({ api, event, client, __GLOBAL }) { }
